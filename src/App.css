@@ -1,0 +1,18 @@
+#retour{
+    background-color: white;
+    color:rgb(1, 191, 224);
+    border: none;
+    font-size: 20px;
+}
+#fav{
+    margin-left: 50%;
+    background-color:#f7f7f7;
+    border:none;
+    font-size: 30px;
+}
+.container{
+    margin-top:30px;
+}
+.searchin{
+    margin-bottom: 20px;
+}
